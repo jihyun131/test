@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent();
                 intent.setAction(Intent.ACTION_DIAL);
                 intent.setData(Uri.parse("tel:119"));
-                //Intent intent = new Intent(Intent.ACTION_CALL,Uri.parse("tel:12345"));
                 startActivity(intent);
             }
         });
