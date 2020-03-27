@@ -17,11 +17,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        button1 = (Button) findViewById(R.id.button1);
+        button1 = (Button) findViewById(R.id.button1);    //내꺼
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://m.naver.com"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://m.nate.com"));
                 startActivity(intent);
             }
         });
