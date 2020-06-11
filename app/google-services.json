@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "43231569248",
+    "firebase_url": "https://test-50a9c.firebaseio.com",
+    "project_id": "test-50a9c",
+    "storage_bucket": "test-50a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43231569248:android:f34994d4b8088faf6eaa05",
+        "android_client_info": {
+          "package_name": "com.example.fourbutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43231569248-kqvl1sc59sl849s5i6iqpfiorgc31nog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfg2yfpGIBR28R6nRt8Sa2GVH5dfl3nKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43231569248-kqvl1sc59sl849s5i6iqpfiorgc31nog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
